@@ -1,0 +1,9 @@
+EMMT??
+Liberary vs framework
+
+what is cdn?
+
+
+what is crossorigin in script tag?
+
+what is async and refer?
